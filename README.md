@@ -6,4 +6,6 @@ Lokalde TCP ve UDP protokolleri üzerinden müşteri ve sunucu arasındaki ileti
 ```
 ile UDP ve TCP akışı olan portları izle.
 
-![Açıklama](images/instance.png)
+![UDPMesajlaşmaörneği](images/instance.png)
+
+![TCPMesajlaşmaörneği](images/instance2.png)
